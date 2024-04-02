@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "UNO hub",
+  title: "Links de Informatica - UNO",
   description:
     "Hub de comunidades y links de la Universidad Nacional del Oeste.",
 };
