@@ -1,59 +1,62 @@
+
+
 export const LINKS = {
     
-    whatsapp: [
+    general: [
       {
-        title: 'Website',
-        url: 'https://emapeire.xyz',
-        icon: ''
+        title: 'Informática - Modo Serio',
+        url: 'https://chat.whatsapp.com/Lim2YRqhb1n8HiFYKo4N7j',
+        icon: '/whatsapp.png'
       },
       {
-        title: 'Email',
-        url: 'mailto:me@emapeire.xyz',
-        icon: ''
+        title: 'UNO - Informática',
+        url: 'https://chat.whatsapp.com/Id9C0KvuiKQ2yuKdkQKT9l',
+        icon: '/whatsapp.png'
       },
       {
-        title: 'Phone',
-        url: 'tel:+5493417190449',
-        icon: ''
+        title: 'UNO - Informática (Telegram)',
+        url: 'https://t.me/Informatica_UNO',
+        icon: '/telegram.png'
       }
     ],
-    socials: [
+    materias: [
       {
-        title: 'GitHub',
-        url: 'https://github.com/emapeire',
-        icon: ''
+        title: 'Lista de todos los grupos',
+        url: 'https://cutt.ly/9dnUOQj',
+        icon: '/web.png'
       },
-      {
-        title: 'The everything app',
-        url: 'https://x.com/emapeire',
-        icon: ''
-      },
-      {
-        title: 'LinkedIn',
-        url: 'https://www.linkedin.com/in/emanuelpeire',
-        icon: ''
-      },
-      {
-        title: 'Dev Community',
-        url: 'https://dev.to/emapeire',
-        icon: ''
-      },
-      {
-        title: 'Telegram',
-        url: 'https://t.me/emapeire',
-        icon: ''
-      }
     ],
-    communities: [
+    trabajo: [
       {
-        title: 'Next.js Argentina',
-        url: 'https://dub.sh/nextjsargentina',
-        icon: ''
+        title: 'UNO Jobs',
+        url: 'https://t.me/unojobs',
+        icon: '/telegram.png'
+      },
+    ],
+    discord: [
+      {
+        title: 'NTRS',
+        url: 'https://discord.gg/ew9qemBD6g',
+        icon: '/discord.png'
+      },
+    ],
+    youtube: [
+      {
+        title: 'Asimov Code',
+        url: 'https://www.youtube.com/@AsimovCode/featured',
+        icon: '/youtube.png'
       },
       {
-        title: 'Discord Community',
-        url: 'https://dub.sh/dsnextjsarg',
-        icon: ''
-      }
-    ]
+        title: 'Sr Dev',
+        url: 'https://youtube.com/@AgustinElisey?si=MvYT5wmk9RvG258d',
+        icon: '/youtube.png'
+      },
+      {
+        title: 'Playlists GEA Uno',
+        url: 'https://www.youtube.com/@GEAUNO/playlists',
+        icon: '/youtube.png'
+      },
+      
+    ],
+    
   }
