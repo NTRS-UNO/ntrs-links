@@ -60,8 +60,8 @@ export default function Home() {
       ))}
 
       <Link href='https://www.youtube.com/watch?v=ItUEXtLLfas'>
-        <h2 className='font-semibold my-12 text-xl text-center'>
-          Video: Cómo usar Google Sheets para seguir el progreso de mi carrera universitaria 📊🎓
+        <h2 className='font-semibold my-12 text-xl text-center '>
+          Video: <span className='hover:underline hover:text-blue-500'>Cómo usar Google Sheets para seguir el progreso de mi carrera universitaria 📊🎓</span>
         </h2>
       </Link>
 
