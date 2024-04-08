@@ -52,10 +52,15 @@ export const LINKS = {
         icon: '/youtube.png'
       },
       {
-        title: 'Playlists GEA Uno',
+        title: 'GEA Uno',
         url: 'https://www.youtube.com/@GEAUNO/playlists',
         icon: '/youtube.png'
       },
+      {
+        title: 'Programacion Web 2 - CodeNet',  
+        url: 'https://www.youtube.com/@CodeNet-wk9iz/videos',
+        icon: '/youtube.png'  
+      },  
       
     ],
     
