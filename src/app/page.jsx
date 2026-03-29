@@ -67,7 +67,8 @@ export default function Home() {
 
       
         <h2 className='font-semibold my-12 text-xl text-center'>
-        Email departamento de alumnos: <Link href='mailto:escueladeinformatica@uno.edu.ar' className='bg-white/15 px-2 rounded-xl py-1 hover:underline hover:text-blue-500'>escueladeinformatica@uno.edu.ar</Link>
+        Email departamento de alumnos: <Link href='mailto:escueladecienciastecnologicas@uno.edu.ar' className='bg-white/15 px-2 rounded-xl py-1 hover:underline hover:text-blue-500'>escueladecienciastecnologicas@uno.edu.ar</Link> o 
+        <Link href='mailto:alumnosct@uno.edu.ar' className='bg-white/15 px-2 rounded-xl py-1 hover:underline hover:text-blue-500'>alumnosct@uno.edu.ar</Link>
         </h2>
 
 
